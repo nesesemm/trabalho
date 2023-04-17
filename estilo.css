@@ -80,7 +80,7 @@ header div a:hover {
 
 #linksFooter a {
     color: rgb(71, 66, 128);
-    font-family: 'IM Fell Great Primer SC', sans-serif;
+    font-family: 'IM Fell Great Primer SC';
     padding-top: 32px;
     font-size: 20px;
     border-bottom: 3px solid rgb(0, 4, 255);
@@ -90,7 +90,6 @@ header div a:hover {
 #linksFooter a:hover {
     color:  rgb(0, 8, 254);
     transition: color 500ms;
-
 }
 
   
